@@ -3,7 +3,7 @@
 
 std::string func()
 {
-	//say hello
+	//just say hello
 	return "hello";
 }
 
